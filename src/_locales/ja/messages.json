@@ -1,6 +1,6 @@
 {
   "background_color_title": {
-    "message": "Background color"
+    "message": "背景色"
   },
   "clear_addressbar_description": {
     "message": "The automatic emptying of the address bar or selecting the URL is currently not possible for WebExtensions. This requires a change by Mozilla."
@@ -21,7 +21,7 @@
     "message": "Published:"
   },
   "feed_read_more": {
-    "message": "Read More…"
+    "message": "続きを読む…"
   },
   "feed_title": {
     "message": "Mozilla News"
@@ -30,7 +30,7 @@
     "message": "Set focus to the web page instead of the address bar"
   },
   "focus_website_title": {
-    "message": "Focus"
+    "message": "フォーカス"
   },
   "github_link": {
     "message": "New Tab Override on GitHub"
@@ -48,7 +48,7 @@
     "message": "Select which page should open as new tab!"
   },
   "learn_more": {
-    "message": "Learn more"
+    "message": "もっと詳しく"
   },
   "local_file_delete_confirmation": {
     "message": "Are you sure you want to delete the file from the extension's storage?"
@@ -78,7 +78,7 @@
     "message": "Do you like the extension? Then please leave a review on"
   },
   "settings_donate": {
-    "message": "Donate"
+    "message": "寄付"
   },
   "settings_donation_text": {
     "message": "Please consider a donation to support the ongoing development of this extension."
@@ -102,7 +102,7 @@
     "message": "Firefox needs your permission to read and to modify the browser settings. You have already granted this permission."
   },
   "settings_main_caption": {
-    "message": "Settings"
+    "message": "設定"
   },
   "settings_permission_action": {
     "message": "Grant permission"
@@ -111,7 +111,7 @@
     "message": "Revoke permission"
   },
   "settings_support_caption": {
-    "message": "Support"
+    "message": "サポート"
   },
   "settings_title": {
     "message": "New Tab — Settings"
@@ -120,7 +120,7 @@
     "message": "URL"
   },
   "type_options_background_color": {
-    "message": "background color"
+    "message": "背景色"
   },
   "type_options_custom_url": {
     "message": "custom URL"
@@ -132,19 +132,19 @@
     "message": "default new tab page of Firefox (about:newtab)"
   },
   "type_options_empty_page": {
-    "message": "empty page (about:blank)"
+    "message": "空白ページ (about:blank)"
   },
   "type_options_feed": {
     "message": "Mozilla News (German)"
   },
   "type_options_homepage": {
-    "message": "current home page"
+    "message": "現在のホームページ"
   },
   "type_options_local_file": {
     "message": "local file"
   },
   "type_title": {
-    "message": "Option"
+    "message": "オプション"
   },
   "url_description": {
     "message": "The web page entered here is displayed when opening a new tab. Only URLs starting with http:// or https:// are supported. Please note: Access to local files via URL is no longer possible due to Firefox restrictions. Please consider using the “local file” option or a local web server, for example via MAMP or XAMPP."
@@ -153,7 +153,7 @@
     "message": "URL"
   },
   "url_validation_default": {
-    "message": "This is not a valid URL."
+    "message": "無効なURLです。"
   },
   "url_validation_file": {
     "message": "Access to local files via URL is no longer possible for extensions."
